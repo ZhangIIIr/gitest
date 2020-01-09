@@ -2,7 +2,7 @@
 
 int main(void)
 {
-		printf("haha\n");
+		printf("https://github.com/ZhangIIIr/gitest.githa\n");
 		printf("haha\n");
 
 		return 0;
